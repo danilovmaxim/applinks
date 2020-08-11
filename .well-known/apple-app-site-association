@@ -1,13 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "GYBL75H3MK.mobi.NYEZPass.bundle.id",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+   "webcredentials": {
+      "apps": [ "GYBL75H3MK.mobi.NYEZPass.bundle.id" ]
+   }
 }
